@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my profile 🙀
+
+**Contacts**
+
+[Discord](https://discordapp.com/users/1135197622580293692)
 
 <!--
 **yurimimi/yurimimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
